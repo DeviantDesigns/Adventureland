@@ -21,7 +21,7 @@ Adventureland/*.suo
 Adventureland/*.user
 Adventureland/*.userprefs
 Adventureland/*.pidb
-AdventurelandAdventureland/*.booproj
+Adventureland/*.booproj
 
 ExportedObj/
 Adventureland/*.svd
